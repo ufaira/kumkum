@@ -2,4 +2,5 @@ tes pertama GIT
 - Bikin Account
 - Bikin direktori Repo
 - Bikin File Baru
+- bikin deskripsinya
 - Commit
